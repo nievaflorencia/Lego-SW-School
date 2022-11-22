@@ -1,0 +1,17 @@
+.sobre__title{
+    color:black;
+    font-family: Poller One, cursive;
+    font-weight: 400;
+}
+
+@media screen and (min-width:0) {
+    .sobre__title{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .sobre__title{
+        font-size: 3.1875rem;
+    }
+}

@@ -1,0 +1,21 @@
+.person__img{
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+}
+
+.person__img--vader{
+    background-image: url('../../img/siths/lords\ \(1\).jpg');
+}
+
+.person__img--ren{
+    background-image: url('../../img/siths/lords\ \(2\).jpg');
+}
+
+.person__img--maul{
+    background-image: url('../../img/siths/lords\ \(3\).jpg');
+}

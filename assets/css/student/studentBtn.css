@@ -1,0 +1,13 @@
+.student__btn{
+    background: #da2b1f;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.student__btn:hover{
+    cursor: pointer;
+    background: #9f1010;
+}
